@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  text-align: center;
+  margin-top: 3rem;
+}
+
+h4 {
+  margin: 2rem;
+  margin-top: 1rem;
+}
+
+#guess-input {
+  padding: 0.5rem 1rem;
+}
+
+#guess-btn {
+  padding: 0.5rem;
+}
